@@ -1,0 +1,85 @@
+ManifestFileVersion: 0
+CRC: 2738609908
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d52a9b5283c6ae371ae80469de3bee1d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 63b65272277e68a09b373b7dd8e7ab21
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d52a9b5283c6ae371ae80469de3bee1d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 791838788, guid: ccdb5abd0e7cc6346af5cc77d75ada64, type: 3}
+- Class: 114
+  Script: {fileID: -775236849, guid: ccdb5abd0e7cc6346af5cc77d75ada64, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c30496d6ae6d6f907456e10a94e01ec6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c36d0a92cbb1f26a39169ef0eae393a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3d0cf24d2ccc3b7eab72048d0f57c437, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Battery
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.BoolScalableSettingValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.IntScalableSettingValue
+Assets:
+- Assets/templates/discomonkey/ScanNode.prefab
+- Assets/templates/monkeysound/MonkeySound.prefab
+- Assets/templates/discomonkey/DiscoMonkey.asset
+- Assets/templates/monkeysound/ScanNode.prefab
+- Assets/templates/discomonkey/DiscoLight.prefab
+- Assets/templates/discomonkey/OneColor.mat
+- Assets/templates/monkeysound/MonkeySound.asset
+- Assets/templates/shared/monkey_beat.mp3
+- Assets/templates/monkeysound/icon.png
+- Assets/templates/discomonkey/DiscoMonkey.blend
+- Assets/templates/monkey/OneColor.mat
+- Assets/templates/monkey/MonkeyBasic.prefab
+- Assets/templates/monkey/icon.png
+- Assets/templates/monkeysound/OneColor.mat
+- Assets/templates/discomonkey/icon.png
+- Assets/templates/monkeysound/MonkeySound.blend
+- Assets/templates/discomonkey/DiscoMonkey.prefab
+- Assets/templates/monkey/MonkeyBasic.blend
+- Assets/templates/monkey/MonkeyBasic.asset
+- Assets/templates/monkey/ScanNode.prefab
+Dependencies: []
