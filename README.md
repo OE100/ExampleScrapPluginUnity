@@ -1,25 +1,8 @@
+## Notice:
+This repo is a fork of Evaisa's [Lethal Company Unity Template](https://github.com/EvaisaDev/LethalCompanyUnityTemplate) repo that I modified to be an easier entry point into modding Lethal Company.
+Evaisa's contributions were invaluable in making this project, without both her template and LethalLib mod this wouldn't exist, as such I recommend checking her stuff out, and before starting a real project of your own cloning her template repo and reading the instructions for an easier start.
 
+## Overview
+This project is designed to be an example for how to make a scrap item in Lethal Company using and LethalLib to register it as scrap to spawn on levels.
 
-# Lethal Company Unity Template
-**This is a unity template project for making Custom Assets for Lethal Company.**
-
-- This does not include any actual game assets.
-- The scripts included in this are only stubs, they contain no actual game code.
-- Will need to be updated after large game updates.
-
-## Setup
-
-1. Clone this repository from `https://github.com/EvaisaDev/LethalCompanyUnityTemplate.git`
-2. Go into the game's `Managed` directory:
-	- `steamapps\common\Lethal Company\Lethal Company_Data\Managed`
-3. Copy the following files:
-	- `AmazingAssets.TerrainToMesh.dll`
-	- `ClientNetworkTransform.dll`
-	- `DissonanceVoip.dll`
-	- `Facepunch Transport for Netcode for GameObjects.dll`
-	- `Facepunch.Steamworks.Win64.dll`
-	- `Newtonsoft.Json.dll`
-	- `Assembly-CSharp-firstpass.dll`
-4. Move the copied files into `Path/To/This/UnityProject/Assets/Plugins`
-5. Open the project with Unity 2022.3.9f1
-6. You can now use game scripts inside of this unity project, for creating custom assets!
+It's made of 2 parts, the [C# BepInEx plugin project](https://github.com/OE100/ExampleScrapPlugin) and the unity project (you are here) where the assets are stored and prefabs are made.
